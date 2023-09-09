@@ -10,4 +10,4 @@
 |---------------------------|--------------------------------|
 | DataSet/train             | Imagenes de entrenamiento      |
 | DataSet/test              | Imagenes de prueba             |
-| project_meat_grader.ipynb | Jupyter Notebook file          |
+| project_cnn.ipynb         | Jupyter Notebook file          |
