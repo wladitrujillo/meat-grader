@@ -3,7 +3,9 @@
 ## Requerimientos
 
 * Jupyter Notebook
-* Tensorflow >= 2.12.0
+* tensorflow >= 2.12.0
+* sklearn >= 1.2.2
+* matplotlib >= 3.7.1
 
 
 ## Estructura del Proyecto
